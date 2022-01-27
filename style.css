@@ -1,0 +1,11 @@
+.icon {
+  width: 25px;
+}
+h3 {
+  font-size: 17px;
+  display: inline;
+  text-align: center;
+}
+.container {
+  background-color: rgba(22, 22, 25, 0.7);
+}
