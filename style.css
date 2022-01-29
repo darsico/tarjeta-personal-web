@@ -11,7 +11,12 @@ body {
 }
 .icon {
   width: 25px;
+  transition: ease 0.2s;
 }
+.icon:hover {
+  transform: scale(1.1);
+}
+
 h3 {
   font-size: 17px;
   display: inline;
